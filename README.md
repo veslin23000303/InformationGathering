@@ -1,6 +1,6 @@
 # InformationGathering
-# NAME:VESLIN ANISH A
-# REGISTER NO:212223240175
+ NAME:VESLIN ANISH A
+ REGISTER NO:212223240175
 Information Gathering Techiques
 
 # To perform information gathering techniques
